@@ -1,4 +1,4 @@
-# miniclock README
+# miniclock
 ## Features
 it displays the time 🙂....
 oh and also allows you to paste it on the editor
