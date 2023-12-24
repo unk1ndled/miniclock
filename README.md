@@ -1,5 +1,5 @@
 # miniclock
-![Demo](https://raw.githubusercontent.com/unk1ndled/miniclock/blob/master/demo.png)
+![Demo](https://github.com/unk1ndled/miniclock/blob/master/demo.png?raw=true)
 ## Features
 it displays the time 🙂....
 oh and also allows you to paste it on the editor
